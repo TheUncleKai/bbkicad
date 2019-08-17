@@ -1,0 +1,43 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +3.3V_RPI1
+K POWER, PWR
+$ENDCMP
+#
+$CMP +3.3V_RPI2
+K POWER, PWR
+$ENDCMP
+#
+$CMP AGND
+K POWER, PWR
+$ENDCMP
+#
+$CMP DGND
+K POWER, PWR
+$ENDCMP
+#
+$CMP TMPS_05_112
+D 3V Vigortronix 15W ACDC Converters
+K 3V 15W AC-DC module power supply
+F http://www.vigortronix.com/15WattSMPSPCBModuleAC-DC
+$ENDCMP
+#
+$CMP TMP_30XXX
+D 3V Vigortronix 15W ACDC Converters
+K 3V 15W AC-DC module power supply
+F http://www.vigortronix.com/15WattSMPSPCBModuleAC-DC
+$ENDCMP
+#
+$CMP VAR
+K POWER, PWR
+$ENDCMP
+#
+$CMP VIN
+K POWER, PWR
+$ENDCMP
+#
+$CMP VPWR
+K POWER, PWR
+$ENDCMP
+#
+#End Doc Library

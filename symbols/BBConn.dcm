@@ -1,0 +1,26 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BBDISPLAY
+D Connector to BBDisplay Module
+K Connector 01x05
+$ENDCMP
+#
+$CMP HD44780
+D Connector for Hitachi HD44780 LCD controller
+K Connector 01x16
+$ENDCMP
+#
+$CMP LUMBERG_1502_1
+D Lumberg Jack chassis socket 1502 1
+$ENDCMP
+#
+$CMP LUMBERG_1503_18
+D Lumberg Jack chassis socket 1503 18
+$ENDCMP
+#
+$CMP USB_Double_A
+D USB Type A connector
+K connector USB USB_A
+$ENDCMP
+#
+#End Doc Library
