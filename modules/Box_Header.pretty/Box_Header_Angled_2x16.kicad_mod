@@ -167,9 +167,9 @@
   (pad 29 thru_hole oval (at 0 35.56) (size 1.7272 1.7272) (drill 1.0) (layers *.Cu *.Mask))
   (pad 32 thru_hole oval (at 2.54 38.1) (size 1.7272 1.7272) (drill 1.0) (layers *.Cu *.Mask))
   (pad 31 thru_hole oval (at 0 38.1) (size 1.7272 1.7272) (drill 1.0) (layers *.Cu *.Mask))
-  (model ${BBCAD_FREE}/Box_Header.pretty/Box_Header_Angled_2x16.wrl
-    (at (xyz 0 0 0))
+  (model ${BBLIB_3D}/Box_Header.pretty/Box_Header_Angled_2x16.step
+    (offset (xyz 1.115 -38.1 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 0 180))
   )
 )
