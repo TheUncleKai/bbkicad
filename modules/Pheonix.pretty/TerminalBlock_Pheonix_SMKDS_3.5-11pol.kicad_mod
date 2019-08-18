@@ -36,7 +36,7 @@
   (pad 9 thru_hole circle (at 28 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask))
   (pad 10 thru_hole circle (at 31.5 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask))
   (pad 11 thru_hole circle (at 35 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D_NONFREE}/Pheonix.pretty/TerminalBlock_Pheonix_SMKDS_3.5-11pol.wrl
+  (model ${BBLIB_3D_NONFREE}/Pheonix.3dshapes/TerminalBlock_Pheonix_SMKDS_3.5-11pol.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -22,7 +22,7 @@
   (pad "" np_thru_hole oval (at 0 4.7) (size 2.7 1.5) (drill oval 2.2 1) (layers *.Cu *.Mask))
   (pad "" np_thru_hole oval (at -6.4 5.3 90) (size 2.8 1.5) (drill oval 2.3 1) (layers *.Cu *.Mask))
   (pad "" np_thru_hole oval (at 6.4 5.3 90) (size 2.8 1.5) (drill oval 2.3 1) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D_NONFREE}/Lumberg.pretty/LUMBERG_TM0508_A4.step
+  (model ${BBLIB_3D_NONFREE}/Lumberg.3dshapes/LUMBERG_TM0508_A4.step
     (offset (xyz 0 -1.95 6.4))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))

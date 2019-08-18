@@ -20,7 +20,7 @@
   (fp_line (start 6 -4) (end -4 -4) (layer F.CrtYd) (width 0.05))
   (pad 1 thru_hole circle (at -2 0 270) (size 2.0 2.0) (drill 1.0) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 2 0 270) (size 2.0 2.0) (drill 1.0) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D}/Collection.pretty/TDK_Inductors_LBCPlus.step
+  (model ${BBLIB_3D}/Collection.3dshapes/TDK_Inductors_LBCPlus.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

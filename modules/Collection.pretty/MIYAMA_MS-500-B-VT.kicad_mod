@@ -53,7 +53,7 @@
   (pad 3 thru_hole circle (at -2.7 -3.9) (size 2.7 2.7) (drill 1.7) (layers *.Cu *.Mask))
   (pad "" np_thru_hole oval (at 9.75 -6.44) (size 1.6 2.5) (drill oval 1 2) (layers *.Cu *.Mask))
   (pad "" np_thru_hole oval (at 9.75 -1.36) (size 1.6 2.5) (drill oval 1 2) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D}/Collection.pretty/Miyama_MS-500-B-VT.step
+  (model ${BBLIB_3D}/Collection.3dshapes/Miyama_MS-500-B-VT.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

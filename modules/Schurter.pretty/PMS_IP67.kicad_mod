@@ -18,7 +18,7 @@
   (pad 2 thru_hole circle (at 6.35 -3.81) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at -6.35 3.81) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 6.35 3.81) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D_NONFREE}/Schurter.pretty/1241.1602.wrl
+  (model ${BBLIB_3D_NONFREE}/Schurter.3dshapes/1241.1602.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

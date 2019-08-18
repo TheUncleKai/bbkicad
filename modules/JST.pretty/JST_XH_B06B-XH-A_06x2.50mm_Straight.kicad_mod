@@ -42,7 +42,7 @@
   (pad 4 thru_hole circle (at 7.5 0) (size 1.75 1.75) (drill 0.9) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 10 0) (size 1.75 1.75) (drill 0.9) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 12.5 0) (size 1.75 1.75) (drill 0.9) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D}/JST.pretty/B6B-XH-A.wrl
+  (model ${BBLIB_3D}/JST.3dshapes/B6B-XH-A.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

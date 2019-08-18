@@ -19,7 +19,7 @@
   (fp_line (start 7.62 0) (end 8.89 0) (layer F.SilkS) (width 0.15))
   (pad 1 thru_hole circle (at 0 0) (size 2.0 2.0) (drill 1.0) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 10.16 0) (size 2.0 2.0) (drill 1.0) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D}/ThroughHole.pretty/Resistor_Horizontal_RM10mm.wrl
+  (model ${BBLIB_3D}/ThroughHole.3dshapes/Resistor_Horizontal_RM10mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

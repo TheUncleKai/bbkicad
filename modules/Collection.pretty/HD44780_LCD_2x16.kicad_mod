@@ -29,7 +29,7 @@
   (pad 14 thru_hole circle (at 1.02 -15.5) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
   (pad 15 thru_hole circle (at 3.56 -15.5) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
   (pad 16 thru_hole circle (at 6.1 -15.5) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D}/Collection.pretty/HD44780_LCD_2x16.step
+  (model ${BBLIB_3D}/Collection.3dshapes/HD44780_LCD_2x16.step
     (offset (xyz -40 -18 2.6))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

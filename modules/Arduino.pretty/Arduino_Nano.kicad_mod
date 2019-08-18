@@ -59,7 +59,7 @@
   (pad "" np_thru_hole circle (at -2.286 15.494) (size 1.778 1.778) (drill 1.778) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 37.846 0) (size 1.778 1.778) (drill 1.778) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 37.846 15.494) (size 1.778 1.778) (drill 1.778) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D_NONFREE}/Arduino.pretty/Nano-Rev3_0.step
+  (model ${BBLIB_3D_NONFREE}/Arduino.3dshapes/Nano-Rev3_0.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

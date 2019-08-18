@@ -49,7 +49,7 @@
   (pad 11 thru_hole circle (at 25 0) (size 1.75 1.75) (drill 0.9) (layers *.Cu *.Mask))
   (pad 12 thru_hole circle (at 27.5 0) (size 1.75 1.75) (drill 0.9) (layers *.Cu *.Mask))
   (pad 13 thru_hole circle (at 30 0) (size 1.75 1.75) (drill 0.9) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D}/JST.pretty/B13B-XH-A.wrl
+  (model ${BBLIB_3D}/JST.3dshapes/B13B-XH-A.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

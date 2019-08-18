@@ -22,7 +22,7 @@
   (fp_line (start 6.48 -7.8) (end 6.48 -9.5) (layer F.SilkS) (width 0.15))
   (pad 1 thru_hole rect (at 1.95 -5.8) (size 2.8 2.8) (drill 1.8) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 5.91 -5.8) (size 2.8 2.8) (drill 1.8) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D}/JST.pretty/B2B-VH.wrl
+  (model ${BBLIB_3D}/JST.3dshapes/B2B-VH.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

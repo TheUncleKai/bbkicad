@@ -11,7 +11,7 @@
   (fp_line (start -3.7 -5.1) (end 11 -5.1) (layer F.SilkS) (width 0.25))
   (pad 1 smd rect (at -1.75 0) (size 3.5 2.8) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 9.05 0) (size 3.5 2.8) (layers F.Cu F.Paste F.Mask))
-  (model ${BBLIB_3D_NONFREE}/Bourns.pretty/srr1005.step
+  (model ${BBLIB_3D_NONFREE}/Bourns.3dshapes/srr1005.step
     (offset (xyz 3.65 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

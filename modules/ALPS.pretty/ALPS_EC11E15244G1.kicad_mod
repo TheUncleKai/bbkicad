@@ -16,7 +16,7 @@
   (pad 1 thru_hole circle (at -2.5 7.4) (size 1.8 1.8) (drill 1.2) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 7.4) (size 1.8 1.8) (drill 1.2) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 2.5 7.4) (size 1.8 1.8) (drill 1.2) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D_NONFREE}/ALPS.pretty/EC11E-05SW.step
+  (model ${BBLIB_3D_NONFREE}/ALPS.3dshapes/EC11E-05SW.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

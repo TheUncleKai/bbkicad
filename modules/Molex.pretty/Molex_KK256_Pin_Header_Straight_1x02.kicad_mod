@@ -25,7 +25,7 @@
   (fp_line (start 2.4 0.035) (end 2.4 2.535) (layer F.SilkS) (width 0.15))
   (pad 1 thru_hole rect (at 0 0) (size 2.032 2.032) (drill 1.0) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 0 2.54) (size 2.032 2.032) (drill 1.0) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D}/Molex.pretty/KK_254_2G.wrl
+  (model ${BBLIB_3D}/Molex.3dshapes/KK_254_2G.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

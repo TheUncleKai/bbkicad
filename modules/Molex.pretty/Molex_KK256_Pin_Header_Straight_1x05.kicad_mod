@@ -28,7 +28,7 @@
   (pad 3 thru_hole oval (at 0 5.08) (size 2.032 2.032) (drill 1.0) (layers *.Cu *.Mask))
   (pad 4 thru_hole oval (at 0 7.62) (size 2.032 2.032) (drill 1.0) (layers *.Cu *.Mask))
   (pad 5 thru_hole oval (at 0 10.16) (size 2.032 2.032) (drill 1.0) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D}/Molex.pretty/KK_254_5G.wrl
+  (model ${BBLIB_3D}/Molex.3dshapes/KK_254_5G.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

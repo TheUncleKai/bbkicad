@@ -10,7 +10,7 @@
   (fp_line (start 0 -10) (end 7 -10) (layer F.SilkS) (width 0.15))
   (fp_line (start 0 0) (end 0 -10) (layer F.SilkS) (width 0.15))
   (pad "" np_thru_hole circle (at 3.5 -6.5) (size 6.2 6.2) (drill 3.2) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D}/Collection.pretty/Mounting_Bracket_L10_W7_M3.step
+  (model ${BBLIB_3D}/Collection.3dshapes/Mounting_Bracket_L10_W7_M3.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

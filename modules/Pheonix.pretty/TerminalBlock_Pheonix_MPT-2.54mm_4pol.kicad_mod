@@ -25,7 +25,7 @@
   (pad 1 thru_hole rect (at 0 0 180) (size 1.99898 1.99898) (drill 1.1) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 2.54 0 180) (size 1.99898 1.99898) (drill 1.1) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at 5.08 0 180) (size 1.99898 1.99898) (drill 1.1) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D_NONFREE}/Pheonix.pretty/TerminalBlock_Pheonix_MPT_2.54_4pol.wrl
+  (model ${BBLIB_3D_NONFREE}/Pheonix.3dshapes/TerminalBlock_Pheonix_MPT_2.54_4pol.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

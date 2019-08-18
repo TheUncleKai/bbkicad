@@ -18,7 +18,7 @@
   (pad 5 thru_hole circle (at 0 62) (size 2.5 2.5) (drill 1.2) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -19.9 40) (size 7.4 7.4) (drill 3.7) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 19.9 40) (size 7.4 7.4) (drill 3.7) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D_NONFREE}/Traco.pretty/TMP-15.wrl
+  (model ${BBLIB_3D_NONFREE}/Traco.3dshapes/TMP-15.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

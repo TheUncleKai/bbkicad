@@ -20,7 +20,7 @@
   (pad 8 thru_hole circle (at 3.4 6.3) (size 1.5 1.5) (drill 1.1) (layers *.Cu *.Mask))
   (pad ~ thru_hole circle (at -6.75 0.8) (size 3 3) (drill 2.3) (layers *.Cu *.Mask))
   (pad ~ thru_hole circle (at 6.75 0.8) (size 3 3) (drill 2.3) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D_NONFREE}/Kycon.pretty/KMDGX-4S-BS.step
+  (model ${BBLIB_3D_NONFREE}/Kycon.3dshapes/KMDGX-4S-BS.step
     (offset (xyz 0 4.7 0.1))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))

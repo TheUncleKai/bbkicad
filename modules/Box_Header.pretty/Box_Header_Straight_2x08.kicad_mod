@@ -36,7 +36,7 @@
   (pad 14 thru_hole oval (at 2.54 15.24) (size 1.8 1.8) (drill 1.0) (layers *.Cu *.Mask))
   (pad 15 thru_hole oval (at 0 17.78) (size 1.8 1.8) (drill 1.0) (layers *.Cu *.Mask))
   (pad 16 thru_hole oval (at 2.54 17.78) (size 1.8 1.8) (drill 1.0) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D}/Box_Header.pretty/Box_Header_Straight_2x08.step
+  (model ${BBLIB_3D}/Box_Header.3dshapes/Box_Header_Straight_2x08.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

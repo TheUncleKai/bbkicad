@@ -28,7 +28,7 @@
   (pad 5 thru_hole circle (at -7 2.65) (size 1.5 1.5) (drill 1.0) (layers *.Cu *.Mask))
   (pad 9 thru_hole circle (at 3.05 5.35) (size 3 3) (drill 2.4) (layers *.Cu *.Mask))
   (pad 9 thru_hole circle (at -10.05 5.35) (size 3 3) (drill 2.4) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D_NONFREE}/Lumberg.pretty/LUMBERG_2410_03.wrl
+  (model ${BBLIB_3D_NONFREE}/Lumberg.3dshapes/LUMBERG_2410_03.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

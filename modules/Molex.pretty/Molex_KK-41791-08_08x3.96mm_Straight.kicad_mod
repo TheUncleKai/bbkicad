@@ -33,7 +33,7 @@
   (pad 6 thru_hole oval (at 19.812 0) (size 3 4) (drill 1.6) (layers *.Cu *.Mask))
   (pad 7 thru_hole oval (at 23.7744 0) (size 3 4) (drill 1.6) (layers *.Cu *.Mask))
   (pad 8 thru_hole oval (at 27.7368 0) (size 3 4) (drill 1.6) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D}/Molex.pretty/KK-41791-08.wrl
+  (model ${BBLIB_3D}/Molex.3dshapes/KK-41791-08.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

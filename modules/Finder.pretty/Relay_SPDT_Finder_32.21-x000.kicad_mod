@@ -1,4 +1,4 @@
-(module Relay_SPDT_Finder_32.21-x000 (layer F.Cu) (tedit 59CEC9DA)
+(module Relay_SPDT_Finder_32.21-x000 (layer F.Cu) (tedit 5D59CDF8)
   (descr "Finder 32.21-x000 Relay, SPDT, https://gfinder.findernet.com/assets/Series/355/S32EN.pdf")
   (tags "AXICOM IM-Series Relay SPDT")
   (fp_text reference REF** (at 3.8 -3) (layer F.SilkS)
@@ -37,9 +37,9 @@
   (pad 11 thru_hole circle (at 0 10.16) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask))
   (pad 14 thru_hole circle (at 0 17.78) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask))
   (pad 12 thru_hole circle (at 7.62 17.78) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D_NONFREE}/Finder.pretty/3221.wrl
-    (at (xyz 0 0 0))
+  (model ${BBLIB_3D_NONFREE}/Finder.3dshapes/3221.stp
+    (offset (xyz 3.75 -9.2 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 0 -90))
   )
 )
