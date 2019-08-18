@@ -16,9 +16,9 @@
   (pad "" np_thru_hole circle (at 3.175 -9.525) (size 3.2 3.2) (drill 2.0) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -3.175 9.525) (size 3.2 3.2) (drill 2.0) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 3.175 9.525) (size 3.2 3.2) (drill 2.0) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D_NONFREE}/CK.3dshapes/816xl1h9v6.wrl
-    (at (xyz 0 0 0))
+  (model ${BBLIB_3D_NONFREE}/CK.3dshapes/816xl1h9v6.stp
+    (offset (xyz 0 0 10.35))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz -90 0 90))
   )
 )
