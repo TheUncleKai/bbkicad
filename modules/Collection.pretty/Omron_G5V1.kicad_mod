@@ -1,4 +1,4 @@
-(module Omron_G5V1 (layer F.Cu) (tedit 57F5574B)
+(module Omron_G5V1 (layer F.Cu) (tedit 5D58958B)
   (fp_text reference REF** (at 5.08 12.7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -15,9 +15,9 @@
   (pad 9 thru_hole circle (at 2.54 5.08) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 10.16 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 10.16 5.08) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D}/Collection.pretty/OMRON_G5V1.wrl
-    (at (xyz 0 0 0))
+  (model ${BBLIB_3D}/Collection.pretty/OMRON_G5V1.step
+    (offset (xyz -1.2 1.2 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 0 90))
   )
 )

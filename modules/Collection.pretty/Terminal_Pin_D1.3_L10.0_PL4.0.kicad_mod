@@ -1,4 +1,4 @@
-(module Terminal_Pin_D1.3_L10.0_PL4.0 (layer F.Cu) (tedit 5898EA11)
+(module Terminal_Pin_D1.3_L10.0_PL4.0 (layer F.Cu) (tedit 5D58969B)
   (descr "Through hole pin header")
   (tags "pin header")
   (fp_text reference REF** (at 0 -5.1) (layer F.SilkS)
@@ -16,8 +16,8 @@
   (fp_line (start -1.55 -1.55) (end 1.55 -1.55) (layer F.SilkS) (width 0.15))
   (fp_line (start -1.55 1.55) (end 1.55 1.55) (layer F.SilkS) (width 0.15))
   (pad 1 thru_hole circle (at 0 0) (size 2.5 2.5) (drill 1.4) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D}/Collection.pretty/Terminal_Pin_D1.3_L10.0_PL4.0.wrl
-    (at (xyz 0 0 0))
+  (model ${BBLIB_3D}/Collection.pretty/Terminal_Pin_D1.3_L10.0_PL4.0.step
+    (offset (xyz 0 0 -4))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
   )
