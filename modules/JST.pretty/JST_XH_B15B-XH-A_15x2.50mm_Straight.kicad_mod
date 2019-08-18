@@ -1,4 +1,4 @@
-(module JST_XH_B15B-XH-A_15x2.50mm_Straight (layer F.Cu) (tedit 56F0715A)
+(module JST_XH_B15B-XH-A_15x2.50mm_Straight (layer F.Cu) (tedit 5D59DA5A)
   (descr "JST XH series connector, B15B-XH-A, top entry type, through hole")
   (tags "connector jst xh tht top vertical 2.50mm")
   (fp_text reference REF** (at 17.5 -3.5) (layer F.SilkS)
@@ -51,9 +51,9 @@
   (pad 13 thru_hole circle (at 30 0) (size 1.75 1.75) (drill 0.9) (layers *.Cu *.Mask))
   (pad 14 thru_hole circle (at 32.5 0) (size 1.75 1.75) (drill 0.9) (layers *.Cu *.Mask))
   (pad 15 thru_hole circle (at 35 0) (size 1.75 1.75) (drill 0.9) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D}/JST.3dshapes/B15B-XH-A.wrl
-    (at (xyz 0 0 0))
+  (model ${BBLIB_3D}/JST.3dshapes/B15B-XH-A.step
+    (offset (xyz 37.43 2.35 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 0 180))
   )
 )
