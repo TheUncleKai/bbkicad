@@ -1,4 +1,4 @@
-(module Molex_KK-41791-04_04x3.96mm_Straight (layer F.Cu) (tedit 59722794)
+(module Molex_KK-41791-04_04x3.96mm_Straight (layer F.Cu) (tedit 5D59E84C)
   (descr "Connector Headers with Friction Lock, 26-60-4020, http://www.molex.com/pdm_docs/sd/026604020_sd.pdf")
   (tags "connector molex kk_41791 26-60-4020")
   (fp_text reference REF** (at 6.985 -6.35) (layer F.SilkS)
@@ -29,9 +29,9 @@
   (pad 2 thru_hole oval (at 3.9624 0) (size 3 4) (drill 1.6) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at 7.9248 0) (size 3 4) (drill 1.6) (layers *.Cu *.Mask))
   (pad 4 thru_hole oval (at 11.8872 0) (size 3 4) (drill 1.6) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D}/Molex.3dshapes/KK-41791-04.wrl
-    (at (xyz 0 0 0))
+  (model ${BBLIB_3D_NONFREE}/Molex.3dshapes/026604040.stp
+    (offset (xyz 5.975 1.95 1.5))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz -90 0 180))
   )
 )
