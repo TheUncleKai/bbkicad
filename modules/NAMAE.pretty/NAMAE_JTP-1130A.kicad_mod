@@ -26,8 +26,8 @@
   (pad 3 thru_hole circle (at 6.5 -4.5) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 6.5 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D}/NAMAE.3dshapes/NAMAE_JTP-1130A.wrl
-    (at (xyz 0 0 0))
+  (model ${BBLIB_3D}/NAMAE.3dshapes/NAMAE_JTP-1130A.step
+    (offset (xyz 0.25 -0.7 0.1))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
