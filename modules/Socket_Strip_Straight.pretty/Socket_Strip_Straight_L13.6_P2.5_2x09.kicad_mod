@@ -37,8 +37,8 @@
   (pad 16 thru_hole oval (at 17.78 2.54) (size 1.7272 1.7272) (drill 1.0) (layers *.Cu *.Mask F.SilkS))
   (pad 17 thru_hole oval (at 20.32 0) (size 1.7272 1.7272) (drill 1.0) (layers *.Cu *.Mask F.SilkS))
   (pad 18 thru_hole oval (at 20.32 2.54) (size 1.7272 1.7272) (drill 1.0) (layers *.Cu *.Mask F.SilkS))
-  (model ${BBLIB_3D}/Socket_Strip_Straight.3dshapes/Socket_Strip_Straight_L13.6_P2.5_02x09.wrl
-    (at (xyz 0 0 0))
+  (model ${BBLIB_3D}/Socket_Strip_Straight.3dshapes/Socket_Strip_Straight_L13.6_P2.5_02x09.step
+    (offset (xyz 0 -2.54 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
