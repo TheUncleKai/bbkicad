@@ -1,4 +1,4 @@
-(module Molex_KK256_Pin_Header_Angled_1x03 (layer F.Cu) (tedit 57695A07)
+(module Molex_KK256_Pin_Header_Angled_1x03 (layer F.Cu) (tedit 5D59E510)
   (descr "Through hole pin header")
   (tags "pin header")
   (fp_text reference REF** (at 0 -5.1) (layer F.SilkS)
@@ -26,11 +26,11 @@
   (fp_line (start 1.9 -1.28) (end 1.9 6.39) (layer F.SilkS) (width 0.15))
   (fp_line (start 13.4 -1.28) (end 13.4 6.39) (layer F.SilkS) (width 0.15))
   (fp_line (start 5.2 0) (end 13.4 0) (layer F.SilkS) (width 0.15))
-  (pad 3 thru_hole oval (at 0 5.08) (size 2.032 2.032) (drill 1.0) (layers *.Cu *.Mask))
-  (pad 1 thru_hole rect (at 0 0) (size 2.032 2.032) (drill 1.0) (layers *.Cu *.Mask))
-  (pad 2 thru_hole oval (at 0 2.54) (size 2.032 2.032) (drill 1.0) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D}/Molex.pretty/KK_254_3W.wrl
-    (at (xyz 0 0 0))
+  (pad 3 thru_hole oval (at 0 5.08) (size 2.032 2.032) (drill 1) (layers *.Cu *.Mask))
+  (pad 1 thru_hole rect (at 0 0) (size 2.032 2.032) (drill 1) (layers *.Cu *.Mask))
+  (pad 2 thru_hole oval (at 0 2.54) (size 2.032 2.032) (drill 1) (layers *.Cu *.Mask))
+  (model ${BBLIB_3D}/Molex.3dshapes/Molex_KK256_Pin_Header_Angled_1x03.step
+    (offset (xyz 1.86 -6.34 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

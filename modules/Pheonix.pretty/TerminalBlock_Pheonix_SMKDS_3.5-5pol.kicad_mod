@@ -24,9 +24,9 @@
   (pad 3 thru_hole circle (at 7 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 10.5 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 14 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D_NONFREE}/Pheonix.pretty/TerminalBlock_Pheonix_SMKDS_3.5-5pol.wrl
-    (at (xyz 0 0 0))
+  (model ${BBLIB_3D_NONFREE}/Pheonix.3dshapes/Phoenix_SMKDS_1_3.5_05.stp
+    (offset (xyz -2 4.3 0.1))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz -90 0 90))
   )
 )

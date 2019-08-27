@@ -27,7 +27,7 @@
   (pad 7 thru_hole oval (at 15.24 0) (size 1.7272 2.032) (drill 1.0) (layers *.Cu *.Mask))
   (pad 8 thru_hole oval (at 17.78 0) (size 1.7272 2.032) (drill 1.0) (layers *.Cu *.Mask))
   (pad 9 thru_hole oval (at 20.32 0) (size 1.7272 2.032) (drill 1.0) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D}/Precision_Socket_Strip_Straight.pretty/Precision_Socket_Strip_Straight_L3.0_P2.5_01x09.wrl
+  (model ${BBLIB_3D}/Precision_Socket_Strip_Straight.3dshapes/Precision_Socket_Strip_Straight_L3.0_P2.5_01x09.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

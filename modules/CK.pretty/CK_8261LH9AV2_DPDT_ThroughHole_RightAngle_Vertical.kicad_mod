@@ -1,4 +1,4 @@
-(module CK_8261LH9AV2_DPDT_ThroughHole_RightAngle_Vertical (layer F.Cu) (tedit 59CC2BA5)
+(module CK_8261LH9AV2_DPDT_ThroughHole_RightAngle_Vertical (layer F.Cu) (tedit 5D59D659)
   (fp_text reference REF** (at 0 23.495) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -22,9 +22,9 @@
   (pad 6 thru_hole circle (at 2.413 0) (size 3.2 3.2) (drill 2) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 2.413 3.81) (size 3.2 3.2) (drill 2) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 2.413 7.62) (size 3.2 3.2) (drill 2) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D_NONFREE}/CK.pretty/8261lh9av2.wrl
-    (at (xyz 0 0 0))
+  (model ${BBLIB_3D_NONFREE}/CK.3dshapes/8261lh9av2.stp
+    (offset (xyz 0 -14.7 6.4))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 -90 180))
   )
 )

@@ -39,9 +39,9 @@
   (pad 1 thru_hole rect (at 0 0) (size 1.75 1.75) (drill 0.9) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 2.5 0) (size 1.75 1.75) (drill 0.9) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 5 0) (size 1.75 1.75) (drill 0.9) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D}/JST.pretty/B3B-XH-A.wrl
-    (at (xyz 0 0 0))
+  (model ${BBLIB_3D}/JST.3dshapes/B3B-XH-A.step
+    (offset (xyz 7.43 2.35 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 0 180))
   )
 )

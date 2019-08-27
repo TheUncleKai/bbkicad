@@ -18,7 +18,7 @@
   (pad 5 thru_hole circle (at 3 4) (size 2.6 2.6) (drill 1.5) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at -3 8) (size 2.6 2.6) (drill 1.5) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 3 8) (size 2.6 2.6) (drill 1.5) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D_NONFREE}/ALPS.pretty/SPUN191400.step
+  (model ${BBLIB_3D_NONFREE}/ALPS.3dshapes/SPUN191400.step
     (offset (xyz 0 -18 6.4))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -90))

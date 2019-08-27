@@ -1,4 +1,4 @@
-(module WERUV01-CM_PLCC6_SMD_LED (layer F.Cu) (tedit 59C6E1CF)
+(module WERUV01-CM_PLCC6_SMD_LED (layer F.Cu) (tedit 5D589761)
   (descr http://cdn.sparkfun.com/datasheets/Components/LED/5060BRG4.pdf)
   (tags "RGB LED 5050-6")
   (attr smd)
@@ -30,8 +30,8 @@
   (pad 4 smd rect (at 2.4 1.7 90) (size 1.1 2) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 2.4 0 90) (size 1.1 2) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at 2.4 -1.7 90) (size 1.1 2) (layers F.Cu F.Paste F.Mask))
-  (model ${BBLIB_3D}/Collection.pretty/WERUV01-CM.wrl
-    (at (xyz 0 0 0))
+  (model ${BBLIB_3D}/Collection.3dshapes/WERUV01-CM.step
+    (offset (xyz -2.5 -2.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

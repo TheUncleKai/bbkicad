@@ -11,7 +11,7 @@
   (fp_line (start -11 -1.8) (end 11 -1.8) (layer F.SilkS) (width 0.15))
   (pad 1 thru_hole circle (at 0 0) (size 3.048 3.048) (drill 1.5) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 8.64) (size 3.048 3.048) (drill 1.5) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D}/Bourns.pretty/2101-V-RC.step
+  (model ${BBLIB_3D}/Bourns.3dshapes/2101-V-RC.step
     (offset (xyz 0 -4.3 9.75))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

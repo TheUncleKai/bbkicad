@@ -19,7 +19,7 @@
   (pad 2 thru_hole oval (at -6.6 0) (size 1 4) (drill oval 0.5 3.2) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at -3.05 5 90) (size 1.2 4) (drill oval 0.6 3.2) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -10.4 0 90) (size 3.45 3.45) (drill 2.3) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D}/Collection.pretty/Cliff_DC_Socket_2.1.wrl
+  (model ${BBLIB_3D}/Collection.3dshapes/Cliff_DC_Socket_2.1.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -29,7 +29,7 @@
   (pad 7 thru_hole circle (at 25.71 -5.8) (size 2.8 2.8) (drill 1.8) (layers *.Cu *.Mask))
   (pad 8 thru_hole circle (at 29.67 -5.8) (size 2.8 2.8) (drill 1.8) (layers *.Cu *.Mask))
   (pad 9 thru_hole circle (at 33.63 -5.8) (size 2.8 2.8) (drill 1.8) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D}/JST.pretty/B9B-VH.wrl
+  (model ${BBLIB_3D}/JST.3dshapes/B9B-VH.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

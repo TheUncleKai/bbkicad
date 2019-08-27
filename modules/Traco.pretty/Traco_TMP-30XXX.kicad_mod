@@ -1,4 +1,4 @@
-(module Traco_TMP-30XXX (layer F.Cu) (tedit 5B51F389)
+(module Traco_TMP-30XXX (layer F.Cu) (tedit 5D647A03)
   (fp_text reference REF** (at 0 86.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -18,9 +18,9 @@
   (pad 3 thru_hole circle (at -27.94 81.3) (size 2.5 2.5) (drill 1.2) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5 55.15) (size 7.4 7.4) (drill 3.7) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5 27.65) (size 7.4 7.4) (drill 3.7) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D_NONFREE}/Traco.pretty/TMP-30.wrl
-    (at (xyz 0 0 0))
+  (model ${BBLIB_3D_NONFREE}/Traco.3dshapes/tmp30-pcb-version.stp
+    (offset (xyz -0.05 -40.7 22))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 180 0 0))
   )
 )

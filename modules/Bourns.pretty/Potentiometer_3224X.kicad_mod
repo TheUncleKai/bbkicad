@@ -16,7 +16,7 @@
   (pad 3 smd rect (at -2.55 -1.25) (size 1.9 1.3) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -2.55 1.2) (size 1.9 1.3) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 2.55 0) (size 1.9 2) (layers F.Cu F.Paste F.Mask))
-  (model ${BBLIB_3D_NONFREE}/Bourns.pretty/3224X.step
+  (model ${BBLIB_3D_NONFREE}/Bourns.3dshapes/3224X.step
     (offset (xyz -1.75 0.3 3))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 0 -90))

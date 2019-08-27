@@ -20,9 +20,9 @@
   (pad 2 thru_hole circle (at 3.5 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 0 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 7 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask))
-  (model ${BBLIB_3D_NONFREE}/Pheonix.pretty/TerminalBlock_Pheonix_SPTA_3.5-3pol.wrl
-    (at (xyz 0 0 0))
+  (model ${BBLIB_3D_NONFREE}/Pheonix.3dshapes/Phoenix_SPTA_1_3.5_03.stp
+    (offset (xyz 0.23 11.98 -32.4))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz -90 0 90))
   )
 )
