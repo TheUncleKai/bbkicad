@@ -1,4 +1,6 @@
-(module LUMBERG_1613_21 (layer F.Cu) (tedit 5D59E059)
+(module LUMBERG_1613_21 (layer F.Cu) (tedit 5D66C9F3)
+  (descr "Netzgeräte-Einbaukupplung, abgewinkelte Ausführung, mit Öffner, für Leiterplatten")
+  (tags "Barrel Jack")
   (fp_text reference REF** (at -14.8 0 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
