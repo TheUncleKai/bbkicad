@@ -1,4 +1,6 @@
-(module LUMBERG_KLB_4 (layer F.Cu) (tedit 5D59E27C)
+(module LUMBERG_KLB_4 (layer F.Cu) (tedit 5D66CAAC)
+  (descr "Klinkeneinbaukupplung nach JIS C 6560 JC35J3A, 3,5 mm, 3-polig/stereo, mit Lötaugen, für Rückseitenmontage")
+  (tags AudioJack3)
   (fp_text reference J4 (at 0 5.95) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
