@@ -20,6 +20,18 @@ D The Arduino Nano is a small, complete, and breadboard-friendly board based on 
 K ATmega328 Arduino Nano
 $ENDCMP
 #
+$CMP ESP8266-12E_NodeMCU_Lolin
+D A development kit for NodeMCU firmware.
+K ESP8266-12E
+F https://github.com/nodemcu/nodemcu-devkit-v1.0
+$ENDCMP
+#
+$CMP HD44780
+D Connector for Hitachi HD44780 LCD controller
+K Connector 01x16
+F https://cdn-shop.adafruit.com/product-files/181/p181.pdf
+$ENDCMP
+#
 $CMP LED_5050_6
 D LED RGB, common anode (pin 1)
 K led rgb diode
