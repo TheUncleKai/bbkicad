@@ -1,4 +1,4 @@
-(module LUMBERG_1501_09 (layer F.Cu) (tedit 5D66F5CF)
+(module LUMBERG_1501_09 (layer F.Cu) (tedit 5D672B0E)
   (descr "Klinkeneinbaukupplung nach JIS C 6560 JC25P2B, 2,5 mm, 2-polig/mono, abgewinkelte Ausführung, mit Öffner, für Leiterplatten, für Rückseitenmontage")
   (tags AudioJack2)
   (fp_text reference REF** (at 0 -0.8) (layer F.SilkS)
@@ -15,6 +15,7 @@
   (fp_line (start -5 0) (end -5 12) (layer F.CrtYd) (width 0.12))
   (fp_line (start -5 12) (end 4 12) (layer F.CrtYd) (width 0.12))
   (fp_line (start 4 12) (end 4 0) (layer F.CrtYd) (width 0.12))
+  (fp_line (start -5 0) (end 4 0) (layer F.CrtYd) (width 0.12))
   (pad S thru_hole oval (at 0 1.2) (size 3.5 1.5) (drill oval 2.2 0.8) (layers *.Cu *.Mask))
   (pad T thru_hole oval (at 0 10.9) (size 3.5 1.5) (drill oval 2.3 0.8) (layers *.Cu *.Mask))
   (pad TN thru_hole oval (at -3.5 9.4) (size 1.5 3.5) (drill oval 0.8 2.2) (layers *.Cu *.Mask))
