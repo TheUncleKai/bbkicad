@@ -77,6 +77,12 @@ $CMP SW_PUSH_ALPS_SPUN
 D 2.5mm-travel Large-sized Horizontal Type SPUN Series
 $ENDCMP
 #
+$CMP Schurter_CMF1
+D IEC connector C8 with line switch 1-pole
+K wall socket 220VAC switch
+F ~
+$ENDCMP
+#
 $CMP THERMISTOR_Pt100
 D Pt100 resistance temperature detectors
 K R TEMP
