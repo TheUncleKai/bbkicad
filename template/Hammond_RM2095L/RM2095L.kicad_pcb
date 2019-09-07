@@ -106,10 +106,10 @@
     (descr "Mounting Hole 3.5mm")
     (tags "mounting hole 3.5mm")
     (attr virtual)
-    (fp_text reference REF** (at 0 -4.5) (layer F.SilkS) hide
+    (fp_text reference ~ (at 0 -4.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value MountingHole_3.5mm_Pad (at 0 4.5) (layer F.Fab) hide
+    (fp_text value ~ (at 0 4.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text user %R (at 0.3 0) (layer F.Fab)
@@ -125,10 +125,10 @@
     (descr "Mounting Hole 3.5mm")
     (tags "mounting hole 3.5mm")
     (attr virtual)
-    (fp_text reference REF** (at 0 -4.5) (layer F.SilkS) hide
+    (fp_text reference ~ (at 0 -4.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value MountingHole_3.5mm_Pad (at 0 4.5) (layer F.Fab) hide
+    (fp_text value ~ (at 0 4.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_circle (center 0 0) (end 3.75 0) (layer F.CrtYd) (width 0.05))
@@ -144,10 +144,10 @@
     (descr "Mounting Hole 3.5mm")
     (tags "mounting hole 3.5mm")
     (attr virtual)
-    (fp_text reference REF** (at 0 -4.5) (layer F.SilkS) hide
+    (fp_text reference ~ (at 0 -4.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value MountingHole_3.5mm_Pad (at 0 4.5) (layer F.Fab) hide
+    (fp_text value ~ (at 0 4.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text user %R (at 0.3 0) (layer F.Fab)
@@ -163,10 +163,10 @@
     (descr "Mounting Hole 3.5mm")
     (tags "mounting hole 3.5mm")
     (attr virtual)
-    (fp_text reference REF** (at 0 -4.5) (layer F.SilkS) hide
+    (fp_text reference ~ (at 0 -4.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value MountingHole_3.5mm_Pad (at 0 4.5) (layer F.Fab) hide
+    (fp_text value ~ (at 0 4.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_circle (center 0 0) (end 3.75 0) (layer F.CrtYd) (width 0.05))
@@ -182,10 +182,10 @@
     (descr "Mounting Hole 3.5mm")
     (tags "mounting hole 3.5mm")
     (attr virtual)
-    (fp_text reference REF** (at 0 -4.5) (layer F.SilkS) hide
+    (fp_text reference ~ (at 0 -4.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value MountingHole_3.5mm_Pad (at 0 4.5) (layer F.Fab) hide
+    (fp_text value ~ (at 0 4.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text user %R (at 0.3 0) (layer F.Fab)
@@ -201,10 +201,10 @@
     (descr "Mounting Hole 3.5mm")
     (tags "mounting hole 3.5mm")
     (attr virtual)
-    (fp_text reference REF** (at 0 -4.5) (layer F.SilkS) hide
+    (fp_text reference ~ (at 0 -4.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value MountingHole_3.5mm_Pad (at 0 4.5) (layer F.Fab) hide
+    (fp_text value ~ (at 0 4.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_circle (center 0 0) (end 3.75 0) (layer F.CrtYd) (width 0.05))
@@ -220,10 +220,10 @@
     (descr "Mounting Hole 3.5mm")
     (tags "mounting hole 3.5mm")
     (attr virtual)
-    (fp_text reference REF** (at 0 -4.5) (layer F.SilkS) hide
+    (fp_text reference ~ (at 0 -4.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value MountingHole_3.5mm_Pad (at 0 4.5) (layer F.Fab) hide
+    (fp_text value ~ (at 0 4.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text user %R (at 0.3 0) (layer F.Fab)
@@ -239,10 +239,10 @@
     (descr "Mounting Hole 3.5mm")
     (tags "mounting hole 3.5mm")
     (attr virtual)
-    (fp_text reference REF** (at 0 -4.5) (layer F.SilkS) hide
+    (fp_text reference ~ (at 0 -4.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value MountingHole_3.5mm_Pad (at 0 4.5) (layer F.Fab) hide
+    (fp_text value ~ (at 0 4.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_circle (center 0 0) (end 3.75 0) (layer F.CrtYd) (width 0.05))
