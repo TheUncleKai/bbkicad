@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 20)
+    (drawings 18)
     (tracks 0)
     (zones 0)
     (modules 8)
@@ -289,8 +289,6 @@
     (arrow2a (pts (xy 260 15) (xy 259.413579 16.126504)))
     (arrow2b (pts (xy 260 15) (xy 260.586421 16.126504)))
   )
-  (gr_line (start 15 97.25) (end 255 97.25) (layer Dwgs.User) (width 0.15))
-  (gr_line (start 135 15) (end 135 179.5) (layer Dwgs.User) (width 0.15))
   (gr_line (start 255 34.25) (end 255 160.25) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 15 34.25) (end 15 160.25) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 28 179.5) (end 242 179.5) (layer Edge.Cuts) (width 0.05) (tstamp 5D722B58))
