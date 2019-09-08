@@ -1,4 +1,4 @@
-(module LUMBERG_1501_04 (layer F.Cu) (tedit 5D66D514)
+(module LUMBERG_1501_04 (layer F.Cu) (tedit 5D755531)
   (descr "Klinkeneinbaukupplung nach JIS C 6560 JC25J3A, 2,5 mm, 3-polig/stereo, abgewinkelte Ausführung, mit Metallkragen, für Leiterplatten")
   (tags AudioJack3)
   (fp_text reference REF** (at 0 -1) (layer F.SilkS)
@@ -21,9 +21,9 @@
   (fp_line (start -2.5 0) (end 2.5 0) (layer F.SilkS) (width 0.25))
   (pad "" np_thru_hole oval (at 2 2.25) (size 1.5 2) (drill oval 1.5 2) (layers *.Cu *.Mask))
   (pad "" np_thru_hole oval (at -2 2.25) (size 1.5 2) (drill oval 1.5 2) (layers *.Cu *.Mask))
-  (pad 1 thru_hole roundrect (at 1.9 6.9) (size 1.2 2.1) (drill oval 0.6 1.4) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
-  (pad 2 thru_hole roundrect (at 0 10) (size 2.1 1.2) (drill oval 1.4 0.6) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
-  (pad 3 thru_hole roundrect (at -1.9 6.9) (size 1.2 2.1) (drill oval 0.6 1.4) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
+  (pad S thru_hole roundrect (at 1.9 6.9) (size 1.2 2.1) (drill oval 0.6 1.4) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
+  (pad T thru_hole roundrect (at 0 10) (size 2.1 1.2) (drill oval 1.4 0.6) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
+  (pad R thru_hole roundrect (at -1.9 6.9) (size 1.2 2.1) (drill oval 0.6 1.4) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
   (model ${BBLIB_3D_NONFREE}/Lumberg.3dshapes/1501_04.stp
     (offset (xyz 0 0 2.25))
     (scale (xyz 1 1 1))
