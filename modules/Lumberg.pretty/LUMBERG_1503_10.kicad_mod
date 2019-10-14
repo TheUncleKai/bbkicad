@@ -1,4 +1,4 @@
-(module LUMBERG_1503_10 (layer F.Cu) (tedit 5D66F201)
+(module LUMBERG_1503_10 (layer F.Cu) (tedit 5D781BD3)
   (descr "Klinkeneinbaukupplung nach JEITA RC-5325A JC35J4A, 3,5 mm, 4-polig/stereo, abgewinkelte Ausführung, für Leiterplatten")
   (tags AudioJack4)
   (fp_text reference REF** (at 0 -4.4) (layer F.SilkS)
@@ -16,6 +16,7 @@
   (fp_line (start 5 0) (end 5 13.5) (layer F.CrtYd) (width 0.12))
   (fp_line (start 5 13.5) (end -5 13.5) (layer F.CrtYd) (width 0.12))
   (fp_line (start -5 13.5) (end -5 0) (layer F.CrtYd) (width 0.12))
+  (fp_line (start -5 0) (end 5 0) (layer F.CrtYd) (width 0.12))
   (pad "" np_thru_hole circle (at -2.5 3) (size 1.2 1.2) (drill 1.2) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 2.5 3) (size 1.2 1.2) (drill 1.2) (layers *.Cu *.Mask))
   (pad 1 thru_hole oval (at -3.5 7.8) (size 1.2 2) (drill oval 0.6 1.2) (layers *.Cu *.Mask))
