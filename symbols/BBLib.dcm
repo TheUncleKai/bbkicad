@@ -68,6 +68,12 @@ K HCMOS SR 3State
 F 74xx/74HC595.pdf
 $ENDCMP
 #
+$CMP SN74LVC1G139
+D 2-to-4 Line Decoder
+K Line Decoder
+F http://www.ti.com/lit/ds/symlink/sn74lvc1g139.pdf
+$ENDCMP
+#
 $CMP SW_PUSH_4
 D Button
 K Switch
