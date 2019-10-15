@@ -1,4 +1,4 @@
-(module LUMBERG_1503_07 (layer F.Cu) (tedit 5D7555E5)
+(module LUMBERG_1503_07 (layer F.Cu) (tedit 5D781BBD)
   (descr "Klinkeneinbaukupplung nach JIS C 6560 JC35J3A, 3,5 mm, 3-polig/stereo, abgewinkelte Ausführung, für Leiterplatten")
   (tags AudioJack3)
   (fp_text reference REF** (at 0 -3.5) (layer F.SilkS)
@@ -18,6 +18,7 @@
   (fp_line (start -4 0) (end -4 12) (layer F.CrtYd) (width 0.12))
   (fp_line (start -4 12) (end 4 12) (layer F.CrtYd) (width 0.12))
   (fp_line (start 4 12) (end 4 0) (layer F.CrtYd) (width 0.12))
+  (fp_line (start -4 0) (end 4 0) (layer F.CrtYd) (width 0.12))
   (pad T thru_hole oval (at -3.25 3.5) (size 1.2 1.8) (drill oval 0.8 1.4) (layers *.Cu *.Mask))
   (pad T thru_hole oval (at 3.25 3.5) (size 1.2 1.8) (drill oval 0.8 1.4) (layers *.Cu *.Mask))
   (pad S thru_hole oval (at -1.9 11) (size 1.2 1.8) (drill oval 0.8 1.4) (layers *.Cu *.Mask))
