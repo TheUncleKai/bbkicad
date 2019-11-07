@@ -10,6 +10,21 @@ D 8 bits serial in // out Shift Register Open Collect.
 K HCMOS SR OpenCol
 $ENDCMP
 #
+$CMP ADG604
+D 1 pC Charge Injection, 100 pA Leakage CMOS ±5 V/5 V/3 V 4-Channel Multiplexer
+K 4-Channel Multiplexer
+$ENDCMP
+#
+$CMP ADG707
+D CMOS, +1.8 V to +5.5 V/±2.5 V, 2.5 Ω, Low-Voltage, 8-/16-Channel Multiplexers
+K CMOS Multiplexer
+$ENDCMP
+#
+$CMP ADG709
+D CMOS, 1.8 V to 5.5 V/±2.5 V, 3 Ω, Low Voltage 4-/8-Channel Multiplexers
+K 4/8-Channel Multiplexers
+$ENDCMP
+#
 $CMP ARDUINO_NANO
 D The Arduino Nano is a small, complete, and breadboard-friendly board based on the ATmega328.
 K ATmega328 Arduino Nano
@@ -48,6 +63,12 @@ K Display Driver Segment
 F 74xx/74HC595.pdf
 $ENDCMP
 #
+$CMP MUX507
+D MUX50x36-V, Low-Capacitance, Low-Leakage-Current, Precision Analog Multiplexers
+K Multiplexer
+F http://www.ti.com/lit/ds/symlink/mux507.pdf
+$ENDCMP
+#
 $CMP NSI45030AT1G
 D Constant Current Regulator & LED Driver, 45 V, 30 mA
 K constant, current , LED, driver
@@ -66,6 +87,12 @@ $CMP SN74HC595
 D SN74HC595 - 8 bits serial in // out Shift Register 3 State Out
 K HCMOS SR 3State
 F 74xx/74HC595.pdf
+$ENDCMP
+#
+$CMP SN74LVC1G139
+D 2-to-4 Line Decoder
+K Line Decoder
+F http://www.ti.com/lit/ds/symlink/sn74lvc1g139.pdf
 $ENDCMP
 #
 $CMP SW_PUSH_4
