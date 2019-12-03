@@ -35,6 +35,12 @@ D The Arduino Nano is a small, complete, and breadboard-friendly board based on 
 K ATmega328 Arduino Nano
 $ENDCMP
 #
+$CMP ESP-32_NodeMCU
+D A development kit for NodeMCU firmware.
+K ESP-32 SoC Wi-Fi Bluetooth
+F https://github.com/nodemcu/nodemcu-devkit-v1.0
+$ENDCMP
+#
 $CMP ESP8266-12E_NodeMCU_Lolin
 D A development kit for NodeMCU firmware.
 K ESP8266-12E
