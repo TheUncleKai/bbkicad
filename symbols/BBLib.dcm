@@ -47,6 +47,12 @@ K ESP8266-12E
 F https://github.com/nodemcu/nodemcu-devkit-v1.0
 $ENDCMP
 #
+$CMP FDN306P
+D –2.6 A,  –12 V, P-Channel MOSFET, SSOT-3
+K P-Channel MOSFET
+F https://www.onsemi.com/pub/Collateral/FDN306P-D.pdf
+$ENDCMP
+#
 $CMP HD44780
 D Connector for Hitachi HD44780 LCD controller
 K Connector 01x16
@@ -123,6 +129,12 @@ $ENDCMP
 #
 $CMP VISHAY_VO14642AT_SPST
 D Double Single Pole Double Throw (SPDT) switch
+$ENDCMP
+#
+$CMP VP0610L
+D -0.18A Id, -60V Vds, P-Channel MOSFET, TO-92
+K P-Channel MOSFET
+F http://www.vishay.com/docs/70209/70209.pdf
 $ENDCMP
 #
 #End Doc Library
